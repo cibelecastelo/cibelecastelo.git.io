@@ -1,4 +1,4 @@
-Ôªø{% load staticfiles %}
+{% load staticfiles %}
 <!DOCTYPE html>
 <!--[if IE 8 ]><html class="no-js oldie ie8" lang="en"> <![endif]-->
 <!--[if IE 9 ]><html class="no-js oldie ie9" lang="en"> <![endif]-->
@@ -117,7 +117,7 @@
 
    				<img src="{% static "blog/images/profile-pic.jpg" %}" alt="Profile Picture">
 
-   				<p class="lead">Ama desafios e possui extrema paix√£o com tecnologia, possui interesse na √°rea de ci√™ncia de dados, machine learning e intelig√™ncia artificial. Possui facilidade e empenho em aprender novas tecnologias.Deseja trabalhar em uma empresa/startup que possibilite o crescimento, compartilhamento e inova√ß√£o.</p>
+   				<p class="lead">Ama desafios e possui extrema paix„o com tecnologia, possui interesse na ·rea de ciÍncia de dados, machine learning e inteligÍncia artificial. Possui facilidade e empenho em aprender novas tecnologias.Deseja trabalhar em uma empresa/startup que possibilite o crescimento, compartilhamento e inovaÁ„o.</p>
    			</div>   			
 
    		</div>   		
@@ -129,9 +129,9 @@
 
    			<h3>Profile</h3>
 
-   			<p align="justify">Graduada em Sistemas de Informa√ß√£o pelo Centro Universit√°rio Newton Paiva e Engenheira de Machine Learning pela Udacity.  
+   			<p align="justify">Graduada em Sistemas de InformaÁ„o pelo Centro Universit·rio Newton Paiva e Engenheira de Machine Learning pela Udacity.  
  
-Experi√™ncia com projetos de ci√™ncia de dados, envolvendo coleta de dados, processamento de dados, an√°lise de dados, cria√ß√£o de modelos preditivos, avalia√ß√£o de modelos preditivos e apresenta√ß√£o de resultados. Dom√≠nio da linguagem de programa√ß√£o python e programa tamb√©m em R. J√° utilizou as principais bibliotecas de ci√™ncia de dados como: pandas, seaborn, matplotlib, keras, neupy, numpy,...</p>
+ExperiÍncia com projetos de ciÍncia de dados, envolvendo coleta de dados, processamento de dados, an·lise de dados, criaÁ„o de modelos preditivos, avaliaÁ„o de modelos preditivos e apresentaÁ„o de resultados. DomÌnio da linguagem de programaÁ„o python e programa tambÈm em R. J· utilizou as principais bibliotecas de ciÍncia de dados como: pandas, seaborn, matplotlib, keras, neupy, numpy,...</p>
 
    			<ul class="info-list">
    				<li>
@@ -162,7 +162,7 @@ Experi√™ncia com projetos de ci√™ncia de dados, envolvendo coleta de dados, proc
    		<div class="col-six tab-full">
 
    			<h3>Habilidades</h3>
-   			<p>Possui habilidades na √°rea de desenvolvimento3</p>
+   			<p>Possui habilidades na ·rea de desenvolvimento3</p>
 
 				<ul class="skill-bars">
 				   <li>
@@ -213,7 +213,7 @@ Experi√™ncia com projetos de ci√™ncia de dados, envolvendo coleta de dados, proc
    			<h5>Curriculum Vitae</h5>
    			<h1>Mais de minhas credenciais</h1>
 
-   			<p class="lead">Atualmente estou procurando trabalho na √°rea de ci√™ncia de dados, posso atuar como analista, desenvolvedora e engenheira de machine learning. Possuo experi√™ncia na √°rea por meio de projetos que fiz e competi√ß√µes que participei.</p>
+   			<p class="lead">Atualmente estou procurando trabalho na ·rea de ciÍncia de dados, posso atuar como analista, desenvolvedora e engenheira de machine learning. Possuo experiÍncia na ·rea por meio de projetos que fiz e competiÁıes que participei.</p>
 
    		</div>   		
    	</div> <!-- /section-intro--> 
@@ -222,7 +222,7 @@ Experi√™ncia com projetos de ci√™ncia de dados, envolvendo coleta de dados, proc
 
    		<div class="col-twelve resume-header">
 
-   			<h2>Experi√™ncia Profissional</h2>
+   			<h2>ExperiÍncia Profissional</h2>
 
    		</div> <!-- /resume-header -->
 
@@ -243,7 +243,7 @@ Experi√™ncia com projetos de ci√™ncia de dados, envolvendo coleta de dados, proc
 
 	   				<div class="timeline-content">
 	   					<h4>MD2 Consultoria</h4>
-	   					<p>Instala√ß√µes de softwares da IBM utilizados nos Projetos de BI. Programa√ß√£o, pr√°ticas e estudos de an√°lise de dados utilizando a ferramenta DataStage Designer e Data Quality, para projetos de ETL.  Outros: Instala√ß√£o IBM Information Server, Instala√ß√£o CDD,...Participa√ß√£o de projeto de governan√ßa de dados com a utiliza√ß√£o da ferramenta Infopshere Information Governance Catalog</p>
+	   					<p>InstalaÁıes de softwares da IBM utilizados nos Projetos de BI. ProgramaÁ„o, pr·ticas e estudos de an·lise de dados utilizando a ferramenta DataStage Designer e Data Quality, para projetos de ETL.  Outros: InstalaÁ„o IBM Information Server, InstalaÁ„o CDD,...ParticipaÁ„o de projeto de governanÁa de dados com a utilizaÁ„o da ferramenta Infopshere Information Governance Catalog</p>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
@@ -255,13 +255,13 @@ Experi√™ncia com projetos de ci√™ncia de dados, envolvendo coleta de dados, proc
 	   				</div>
 
 	   				<div class="timeline-header">
-	   					<h3>Estagi√°ria de TI</h3>
+	   					<h3>Estagi·ria de TI</h3>
 	   					<p>Set 2014 - Out 2015</p>
 	   				</div>
 
 	   				<div class="timeline-content">
 	   					<h4>Lafarge</h4>
-	   					<p>Apoio no desenvolvimento, melhorias, suporte e corre√ß√µes dos softwares aplicativos corporativos e banco de dados da empresa visando garantir o funcionamento e disponibilidades dos mesmos. Al√©m disso, suporte e atendimento aos usu√°rios do sistema.</p>
+	   					<p>Apoio no desenvolvimento, melhorias, suporte e correÁıes dos softwares aplicativos corporativos e banco de dados da empresa visando garantir o funcionamento e disponibilidades dos mesmos. AlÈm disso, suporte e atendimento aos usu·rios do sistema.</p>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
@@ -276,7 +276,7 @@ Experi√™ncia com projetos de ci√™ncia de dados, envolvendo coleta de dados, proc
 
    		<div class="col-twelve resume-header">
 
-   			<h2>Forma√ß√£o Acad√™mica</h2>
+   			<h2>FormaÁ„o AcadÍmica</h2>
 
    		</div> <!-- /resume-header -->
 
@@ -297,7 +297,7 @@ Experi√™ncia com projetos de ci√™ncia de dados, envolvendo coleta de dados, proc
 
 	   				<div class="timeline-content">
 	   					<h4>Udacity</h4>
-	   					<p>Especializa√ß√£o de engenheira de machine learning que possibilitou aprender a construir modelos preditivos que possibilitam os computadores a agir, aprender e tomar decis√µes baseados em dados. Foi abordado conceitos fundamentos de aprendizagem supervisionada, aprendizagem n√£o supervisionada, aprendizagem por refor√ßo e deep learning, al√©m de avalia√ß√£o e valida√ß√£o de modelos. O projeto final desenvolvido possibilitou realizar todo o ciclo de ci√™ncia de dados.</p>
+	   					<p>EspecializaÁ„o de engenheira de machine learning que possibilitou aprender a construir modelos preditivos que possibilitam os computadores a agir, aprender e tomar decisıes baseados em dados. Foi abordado conceitos fundamentos de aprendizagem supervisionada, aprendizagem n„o supervisionada, aprendizagem por reforÁo e deep learning, alÈm de avaliaÁ„o e validaÁ„o de modelos. O projeto final desenvolvido possibilitou realizar todo o ciclo de ciÍncia de dados.</p>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
@@ -309,13 +309,13 @@ Experi√™ncia com projetos de ci√™ncia de dados, envolvendo coleta de dados, proc
 	   				</div>
 
 	   				<div class="timeline-header">
-	   					<h3>Gradua√ß√£o Sistemas de Informa√ß√£o</h3>
+	   					<h3>GraduaÁ„o Sistemas de InformaÁ„o</h3>
 	   					<p>2011 - Jun 2016</p>
 	   				</div>
 
 	   				<div class="timeline-content">
-	   					<h4>Centro Universit√°rio Newton Paiva</h4>
-	   					<p>Graduada em Sistemas de Informa√ß√£o, este curso possibilitou o meu primeiro contato com tecnologia da informa√ß√£o. Foram desenvolvidos projetos na √°rea de programa√ß√£o,banco de dados, redes e webdesign .</p>
+	   					<h4>Centro Universit·rio Newton Paiva</h4>
+	   					<p>Graduada em Sistemas de InformaÁ„o, este curso possibilitou o meu primeiro contato com tecnologia da informaÁ„o. Foram desenvolvidos projetos na ·rea de programaÁ„o,banco de dados, redes e webdesign .</p>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
@@ -339,7 +339,7 @@ Experi√™ncia com projetos de ci√™ncia de dados, envolvendo coleta de dados, proc
    			<h5>Portfolio</h5>
    			<h1>Confira alguns dos meus projetos</h1>
 
-   			<p class="lead">Alguns projetos abaixo foram desenvolvidos juntamento com o Nanodegree da Udacity, outros foram desenvolvidos para competi√ß√µes.</p>
+   			<p class="lead">Alguns projetos abaixo foram desenvolvidos juntamento com o Nanodegree da Udacity, outros foram desenvolvidos para competiÁıes.</p>
 
    		</div>   		
    	</div> <!-- /section-intro--> 
@@ -357,7 +357,7 @@ Experi√™ncia com projetos de ci√™ncia de dados, envolvendo coleta de dados, proc
 	                  <a href="#modal-01" class="overlay">	                  	           
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
-		     					       <h3 class="folio-title">nem foiii</h3>	     					    
+		     					       <h3 class="folio-title">Kaggle - CompetiÁ„o MoveHub Cities</h3>	     					    
 		     					    	 <span class="folio-types">
 		     					       	  Graphic Design
 		     					       </span>
@@ -385,9 +385,7 @@ Experi√™ncia com projetos de ci√™ncia de dados, envolvendo coleta de dados, proc
 
 	            <div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="{% static "blog/images/portfolio/clouds.jpg" %}"alt="Clouds">
-
-
+	               	<img src="images/portfolio/clouds.jpg"alt="Clouds">
 	                  <a href="#modal-03" class="overlay">             		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
@@ -403,7 +401,7 @@ Experi√™ncia com projetos de ci√™ncia de dados, envolvendo coleta de dados, proc
 
 	            <div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="{% static "blog/images/portfolio/beetle.jpg" %}" alt="Beetle">
+	               	<img src="images/portfolio/beetle.jpg" alt="Beetle">
 	                  <a href="#modal-04" class="overlay">                  	                 
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
@@ -425,9 +423,10 @@ Experi√™ncia com projetos de ci√™ncia de dados, envolvendo coleta de dados, proc
 	                  <a href="#modal-05" class="overlay">             		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">KAGGLE ‚Äì COMPETI√á√ÉO PORTO SEGURO</h3>	     					    
+	                     		<h3 class="folio-title">KAGGLE ñ COMPETI«√O PORTO SEGURO</h3>	     					    
 		     					    	<span class="folio-types">
-		     					       	EXCLUIR
+		     					       	  Exploratory Data AnalysisData ModelingApplied Machine LearningModel Evaluation and ValidationReal-World Problem-SolvingModel TuningData VisualizationAnalysis and Reporting
+Identified a relevant real-world problem that can be solved using machine learning, and modeled it using techniques learned throughout the Nanodegree. Presented the best solution achieved, discussed its strengths and weaknesses, and scope for future work.
 		     					      </span>		     		
 		     					   </div> 	                      	
 	                     </div>                    
@@ -437,8 +436,8 @@ Experi√™ncia com projetos de ci√™ncia de dados, envolvendo coleta de dados, proc
 
 	            <div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="{% static "blog/images/portfolio/modals/salad.jpg" %}" alt="Salad">
-	                  <a href="#modal-03" class="overlay">
+	               	<img src="images/portfolio/salad.jpg" alt="Salad">
+	                  <a href="#modal-06" class="overlay">
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
 	                     		<h3 class="folio-title">Salad</h3>	     					    
@@ -476,8 +475,7 @@ Experi√™ncia com projetos de ci√™ncia de dados, envolvendo coleta de dados, proc
 				   <div id="modal-02" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="{% static "blog/images/portfolio/modals/m-shutterbug.jpg" alt="" />
-
+				     		<img src="images/portfolio/modals/m-shutterbug.jpg" alt="" />
 				     	</div>      	
 
 					   <div class="description-box">
@@ -497,22 +495,19 @@ Experi√™ncia com projetos de ci√™ncia de dados, envolvendo coleta de dados, proc
 				   <div id="modal-03" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="{% static "blog/images/portfolio/modals/m-salad.jpg" %}" alt="" />
+				     		<img src="images/portfolio/modals/m-clouds.jpg" alt="" />
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>KAGGLE - Competi√ß√£o MoveHub Cities</h4>		      
-					      <p align='justify'>A predi√ß√£o do ranking das melhores cidades para se viver com base em dados conhecidos √© um problema alcan√ß√°vel,
-pois √© constat√°vel que melhores cidades para se viver possuem em sua localidade pessoas com boa qualidade de vida, com bons sal√°rios e com poder de compra, e em contraste cidades menos favorecidas possuem altas taxas de crime, pobreza e polui√ß√£o. Assim, cada fator citado, entre outros influenciam em como uma cidade pode ser avaliada. Nesta competi√ß√£o j√° h√° uma vari√°vel, ‚ÄòMovehub Rating‚Äô, que √© a combina√ß√£o de todas as pontua√ß√µes para uma classifica√ß√£o geral para uma cidade. Dessa forma, para realizar a predi√ß√£o ser√° necess√°rio considerar todos os fatores
-existentes dentro do conjunto de dados, pois eles contribuem para a obten√ß√£o do resultado do ranking. O Scikit-Learn, uma biblioteca de Machine Learning, ser√° utilizada para implementa√ß√£o de um algoritmo de regress√£o multivariada para a modelagem dos dados. Esse algoritmo ir√° criar o modelo que ser√° capaz de prever os valores dos rankings das cidades. Machine Learning foi utilizada para a an√°lise de dados e automatiza√ß√£o do desenvolvimento da modelagem de dados. O algoritmo utilizado, possibilitou a obten√ß√£o de um resultado de 90,2% de precis√£o, o que
-demostra a efic√°cia do modelo na generaliza√ß√£o de dados ainda n√£o vistos..</p>
+					      <h4>Clouds</h4>		      
+					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
-					      <div class="categories">Python, pandas, matplotlib, storytelling, regress√£o multivariada, scipy, sklearn, numpy, aprendizagem supervisionada, processamento de dados, sql e an√°lise explorat√≥ria.</div>			               
+					      <div class="categories">Web Design</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="https://github.com/cibelecastelo/Kaggle---Competicao-de-Machine-Learning---MoveHub-Cities/blob/master/Artigo%20-%20Movehub%20Cities.pdf">Detalhes</a>
-					      <a href="#" class="popup-modal-dismiss">Fechar</a>
+			            <a href="http://www.behance.net">Details</a>
+					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
 				   </div> <!-- /modal-03 -->
@@ -520,19 +515,19 @@ demostra a efic√°cia do modelo na generaliza√ß√£o de dados ainda n√£o vistos..</
 				   <div id="modal-04" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="{% static "blog/images/portfolio/m-beetle.jpg" %}" alt="" />
+				     		<img src="images/portfolio/modals/m-beetle.jpg" alt="" />
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Projeto MIAUDOTE</h4>		      
-					      <p align='justify'>Participa√ß√£o no desenvolvimento de um sistema de ado√ß√£o de animais 'Miaudote' durante o primeiro semestre de2016. O Miaudote foi apresentado no Mercado Newton.O projeto foi realizado em parceria com o curso de veterin√°ria que possui contatos com ONGS de prote√ß√£o ao animal, que d√£o suporte aos animais abandonados nas ruas. O objetivo do projeto foi aumentar a ado√ß√£o de cachorros e gatos por meio da utiliza√ß√£o desse website.</p>
+					      <h4>Beetle</h4>		      
+					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
-					      <div class="categories">SCRUM,WEBDESIGNER,PO</div>			               
+					      <div class="categories">Branding</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="http://www.miaudote.com.br">Details</a>
-					      <a href="#" class="popup-modal-dismiss">Fechar</a>
+			            <a href="http://www.behance.net">Details</a>
+					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
 				   </div> <!-- /modal-04 -->
@@ -543,12 +538,12 @@ demostra a efic√°cia do modelo na generaliza√ß√£o de dados ainda n√£o vistos..</
 				     		<img src="{% static "blog/images/portfolio/modals/m-lighthouse.jpg" %}" alt="" />
 				     	</div>      	
 					   <div class="description-box">
-					      <h4>Kaggle ‚Äì Competi√ß√£o Porto Seguro</h4>		      
-					      <p align='justify'>O projeto apresenta o problema e solu√ß√£o para a competi√ß√£o Porto Seguro‚Äôs Safe Driver Prediction que est√°
-dispon√≠vel no site Kaggle, que √© uma plataforma para modelagens preditivas e competi√ß√µes anal√≠ticas. Nesta competi√ß√£o, voc√™ √© desafiado a construir um modelo que prev√™ a probabilidade de um motorista acionar o seguro de ve√≠culo no pr√≥ximo ano. A Porto Seguro tem utilizado Machine Learning nos √∫ltimos 20 anos, e eles est√£o olhandopara a comunidade de Machine Learning da Kaggle para explorar novos m√©todos mais poderosos. Uma previs√£o mais precisa ir√° permitir que eles sigam adaptando seus pre√ßos com a esperan√ßa que a cobertura do seguro autom√≥vel
-seja mais acess√≠vel para mais motoristas. Este projeto foi o projeto de conclus√£o do curso de Nanodegree de Machine Learning da Udacity que teve como objetivo a identifica√ß√£o e resolu√ß√£o de um problema real que pudesse ser resolvido com a utiliza√ß√£o das t√©cnicas de Machine Learning aprendidas no curso.</p>
+					      <h4>Kaggle ñ CompetiÁ„o Porto Seguro</h4>		      
+					      <p align='justify'>O projeto apresenta o problema e soluÁ„o para a competiÁ„o Porto Seguroís Safe Driver Prediction que est·
+disponÌvel no site Kaggle, que È uma plataforma para modelagens preditivas e competiÁıes analÌticas. Nesta competiÁ„o, vocÍ È desafiado a construir um modelo que prevÍ a probabilidade de um motorista acionar o seguro de veÌculo no prÛximo ano. A Porto Seguro tem utilizado Machine Learning nos ˙ltimos 20 anos, e eles est„o olhandopara a comunidade de Machine Learning da Kaggle para explorar novos mÈtodos mais poderosos. Uma previs„o mais precisa ir· permitir que eles sigam adaptando seus preÁos com a esperanÁa que a cobertura do seguro automÛvel
+seja mais acessÌvel para mais motoristas. Este projeto foi o projeto de conclus„o do curso de Nanodegree de Machine Learning da Udacity que teve como objetivo a identificaÁ„o e resoluÁ„o de um problema real que pudesse ser resolvido com a utilizaÁ„o das tÈcnicas de Machine Learning aprendidas no curso.</p>
 
-					      <div class="categories">Coleta de Dados,An√°lise de dados, Explora√ß√£o de Dados, Processamento de Dados, Modelo Preditivo, Aperfei√ßoamento do Modelo, Avalia√ß√£o e Valida√ß√£o do Modelo, An√°lise e Relat√≥rio,desenvolvimento python, pearson, estat√≠stica descritiva e normaliza√ß√£o de dados.</div>			               
+					      <div class="categories">Coleta de Dados,An·lise de dados, ExploraÁ„o de Dados, Processamento de Dados, Modelo Preditivo, AperfeiÁoamento do Modelo, AvaliaÁ„o e ValidaÁ„o do Modelo, An·lise e RelatÛrio,desenvolvimento python, pearson, estatÌstica descritiva e normalizaÁ„o de dados.</div>			               
 					   </div>
 
 			         <div class="link-box">
@@ -561,15 +556,14 @@ seja mais acess√≠vel para mais motoristas. Este projeto foi o projeto de conclus
 				   <div id="modal-06" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="{% static "blog/images/portfolio/modals/m-a.jpg" %}" alt="" />
+				     		<img src="images/portfolio/modals/m-salad.jpg" alt="" />
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>CRIANDO SEGMENTO DE CONSUMIDORES</h4>		      
-					      <p align='justify'>Revise dados n√£o estruturados para entender os padr√µes e categorias naturais que os dados se encaixam. Utilize m√∫ltiplos algoritmos e os compare empiricamente e teoricamente contrastando os resultados. Fa√ßa previs√µes sobre as categorias naturais de v√°rios tipos no conjunto de dados, ent√£o verifique essas previs√µes contra o resultado da
-an√°lise n√£o supervisionada.</p>
+					      <h4>Salad</h4>		      
+					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
-					      <div class="categories">Clusteriza√ß√£o, PCA/ICA, SKlearn, Sele√ß√£o de feature e visualiza√ß√£o de dados.</div>			               
+					      <div class="categories">Branding</div>			               
 					   </div>
 
 			         <div class="link-box">
@@ -605,7 +599,7 @@ an√°lise n√£o supervisionada.</p>
 		      <p class="lead">
 		      Looking for an awesome and reliable webhosting? Try <a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT"><span>DreamHost</span></a>.
 				Get <span>$50 off</span> when you sign up with the promocode <span>styleshout</span>. 
-				<!-- Simply type	the promocode in the box labeled ‚ÄúPromo Code‚Äù when placing your order. -->	
+				<!-- Simply type	the promocode in the box labeled ìPromo Codeî when placing your order. -->	
 				</p>
 
 				<div class="action">
@@ -966,7 +960,7 @@ an√°lise n√£o supervisionada.</p>
 
       	<div class="col-six tab-full">
 	      	<div class="copyright">
-		        	<span>¬© Copyright Kards 2016.</span> 
+		        	<span>© Copyright Kards 2016.</span> 
 		        	<span>Design by <a href="http://www.styleshout.com/">styleshout</a></span>	         	
 		         </div>		                  
 	      	</div>
