@@ -2597,3 +2597,15 @@ footer .copyright span:last-child::after {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+.text-align-left {
+	text-align: left;
+}
+
+.text-align-right {
+	text-align: right;
+}
+
+.text-align-justify {
+	text-align: justify;
+}

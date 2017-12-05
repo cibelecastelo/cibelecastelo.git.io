@@ -850,6 +850,17 @@ textarea {
 	text-align: left;
 }
 
+.text-align-left {
+	text-align: left;
+}
+
+.text-align-right {
+	text-align: right;
+}
+
+.text-align-justify {
+	text-align: justify;
+}
 .text-right {
 	text-align: right;
 }
@@ -870,4 +881,14 @@ textarea {
 
 /*# sourceMappingURL=base.css.map */
 
+.text-align-left {
+	text-align: left;
+}
 
+.text-align-right {
+	text-align: right;
+}
+
+.text-align-justify {
+	text-align: justify;
+}
