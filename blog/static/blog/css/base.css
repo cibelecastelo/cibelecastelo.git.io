@@ -892,3 +892,15 @@ textarea {
 .text-align-justify {
 	text-align: justify;
 }
+
+#wrapper {
+  background-color: green; /* for vizualization purposes */
+  text-align: center;
+}
+
+div.centre {
+  width: 850px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
