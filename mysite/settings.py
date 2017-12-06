@@ -25,7 +25,7 @@ SECRET_KEY = 'twft8fy&_14(1(hp@3dqwbn-jdsyz3fv^))4d$@o+x#5j@*x+c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['cibelecastelo.pythonanywhere.com','127.0.0.1']
+ALLOWED_HOSTS = ['cibelecastelo.pythonanywhere.com','127.0.0.1','cibelecastelo.ml']
 
 
 # Application definition
